@@ -81,15 +81,18 @@
     "tap_body": [
       {
         "file": "mtn/tapBody_00.mtn",
-        "sound": "snd/tapBody_00.mp3"
+        "sound": "snd/tapBody_00.mp3",
+        "text": "love me？"
       },
       {
         "file": "mtn/tapBody_01.mtn",
-        "sound": "snd/tapBody_01.mp3"
+        "sound": "snd/tapBody_01.mp3",
+        "text": "love you"
       },
       {
         "file": "mtn/tapBody_02.mtn",
-        "sound": "snd/tapBody_02.mp3"
+        "sound": "snd/tapBody_02.mp3",
+        "text": "Thk you"
       }
     ],
     "pinch_in": [
